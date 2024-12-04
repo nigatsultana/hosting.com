@@ -1,0 +1,736 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+    /* header start   */
+    header {
+      margin: 20px 0;
+    }
+    .menu_ul li a {
+      margin: 0px 0 5px;
+     
+    }
+         /* feature start */
+         .feature {
+          margin: 0;
+        }
+        .f_img {
+          margin: 0;
+        }
+        .img_1 {
+          top: 211px;
+          right: -10px;
+        }
+        .img_2 {
+          top: 21px;
+          right: -10px;
+        }
+        .img_3 {
+         
+          top: 130px;
+          left: -10px;
+        }
+        .f_text {
+          text-align: center;
+          margin-top: 10px;
+        }
+        
+        .f_h1 {
+          margin: 15px 0;
+          font-size: 38px;
+        }
+        .f_p {
+          margin: 0;
+        }
+        .f_btn {
+          margin-top: 10px;
+        }
+        .acc_button {
+          padding: 10px;
+          margin-right:0px;
+        }
+        .cy_button{
+          padding: 10px;
+
+        }
+           /* hosting start */
+        .hosting {
+         margin: 30px 0;
+          }
+       .h_h2 {
+      text-align: center;
+      font-size: 40px;
+       }
+    .h_p {
+      margin: 20px 0;
+      line-height: 24px;
+      text-align: center;
+    }
+    .h_logo {
+      margin-bottom: 20px;
+      padding: 0;
+    }
+      /* facility start */
+      .facility {
+        margin-bottom: 30px;
+      }
+      
+        .fa_p {
+          margin: 0 0 15px;
+        }
+        .fa_h2 {
+          font-size: 18px; 
+          line-height: 24px;
+        }
+             /* package start */
+       .pa_h2 {
+         font-size: 36px;
+        line-height: 44px;
+        }
+        .pa_p {        
+          font-size: 20px;        
+          margin: 0px 0 20px 0;
+        }
+        .b_p {
+          margin-left: 0;
+          font-size: 22px;
+        }
+      .b_p2 {
+        margin-right: 0px;
+        font-size: 22px;
+      }
+      .box {
+        margin-left:0px;
+        width: 70px;
+      }
+      .button {
+        width: 82px;
+        height: 40px;
+      } 
+      
+      .button::before {
+        width: 30px;
+        height: 30px;
+        margin: 4px 0 4px 10px;
+      }
+      .pa_btn {
+        left: 73px;
+       margin-top: 3px;
+        }
+          .pr_item {
+           margin: 55px 10px 0px 10px;
+          padding: 30px 31px 38px 35px;
+         }
+        .pr_p {
+          margin: 20px 0;
+        }
+        .carousel-prev {
+          font-size: 24px;
+       }
+        .carousel-next {
+          font-size: 24px;
+        }
+        .pa_btn {
+          left: 49px;
+          margin-top: -6px;
+        }
+        .btn1 {
+          padding-left: 0;
+
+       }
+       .btn1 {
+        padding: 0;
+
+        }
+       .btn2{
+       padding:0;
+        }
+        .pr_p {
+          margin: 10px 0;
+        }
+        .btn_pack {
+          margin: 0 0 10px 0;
+        }
+        /* testmonial start */
+      .testmonial {
+        margin: 50px 0;
+       
+      }
+      .test_text {
+        top: 13px;
+        left: 42px;
+      }
+      .test_h1 {
+        font-size: 28px;
+        line-height: 32px;
+      }
+      .test_p {
+        font-size: 16px;
+        line-height: 20px;
+      }
+      .jpnl {
+        padding: 22px 10px 0px 28px;
+        top: 21px;
+        left: 0px;
+        margin: 0 10px;
+      }
+      .jp_icon img {
+        top: -275px;
+        left: -17px;
+      }
+    .jp_p {
+      line-height: 26px;
+      margin-top: 12px;
+      margin-bottom: 0;
+    }
+    .cli {
+      padding: 10px 10px 0px 28px;
+      top: 42px;
+      left: 0px;
+      margin: 0 10px;
+    }
+    .cl_p {
+      line-height: 26px;
+    }
+    .cl_logo img {
+      top: -283px;
+      left: -17px;
+    }
+    .lob {
+      padding: 0px 4px 0px 28px;
+      top: 59px;
+      left: 0px;
+      margin: 0 10px 30px 10px;
+    }
+    .lob_icon img {
+     
+      top: -143px;
+      left: -17px;
+    }
+    .lob_p {
+      line-height: 24px;
+    }
+    .red_icon {
+      top: -1124px;
+      left: 3px;
+    }
+    .red_icon img {
+      height: 50px;
+    }
+    /* website start */
+    .web_text h1 {
+      font-size: 30px;
+      line-height: 45px;
+    }
+    .web_text p {
+      line-height: 28px;
+      padding-right: 0;
+    }
+    
+  
+      }
+
+
+
+    /*Small devices (landscape phones, 576px and up)*/
+    @media (min-width: 576px) and (max-width: 767.98px) {
+         /* header start   */
+         header {
+          margin: 20px 0 10px 0;
+        }
+         .menu_ul li a {
+          margin: 0px 0 5px;
+         
+        }
+         /* feature start */
+    .feature {
+      margin: 0;
+    }
+    .f_img {
+      margin: 20px 20px;
+    }
+    .img_1 {
+     
+      top: 359px;
+      right: -19px;
+    }
+    .f_text {
+      text-align: center;
+      margin-top: 10px;
+    }
+    
+      .f_h1 {
+        margin: 20px 0;
+        font-size: 50px;
+      }
+    .f_p {
+      margin: 0 40px;
+    }
+    .f_btn {
+      margin-top: 30px;
+    }
+    /* hosting start */
+    .h_h2 {
+      text-align: center;
+      font-size: 40px;
+    }
+    .h_p {
+      margin: 20px;
+      line-height: 24px;
+      text-align: center;
+    }
+    .h_logo {
+      margin-bottom: 50px;
+    }
+    /* facility start */
+    .facility {
+      margin-bottom: 80px;
+    }
+      /* facility start */
+      .fa_p {
+        margin: 0 0 15px;
+      }
+      .fa_h2 {
+        font-size: 18px; 
+        line-height: 24px;
+      }
+      /* package start */
+      .pa_h2 {
+        font-size: 47px;
+       line-height: 55px;
+      }
+      .pa_p {
+        margin: 10px 0 10px 0;
+      }
+      .b_p {
+        margin-left: 82px;
+      }
+      
+      .button {
+         margin-left: 50px;
+      }    
+      .b_p2 {
+        margin-right: 34px;
+      }
+      .pa_btn {
+        left: 73px;
+       margin-top: 3px;
+        }
+        .pr_item {
+          margin: 70px 38px 0px 38px;
+          padding: 40px 60px 40px 50px;
+        }
+        .pr_p {
+          margin: 20px 0;
+        }
+        /* testmonial start */
+      .testmonial {
+        margin-top: 50px;
+       
+      }
+      .test_text {
+        top: 77px;
+        left: 34px;
+      }
+      .test_h1 {
+        font-size: 28px;
+        line-height: 32px;
+      }
+      .test_p {
+        font-size: 16px;
+        line-height: 20px;
+      }
+    .jpnl {
+      padding: 9px 0px 0px 28px;
+      top: 128px;
+      left: 3px;
+    }
+    .jp_icon img {
+      top: -274px;
+      left: -22px;
+    }
+    .jp_p {
+      line-height: 26px;
+      margin-top: 12px;
+      margin-bottom: 0;
+    }
+    .cli {
+      padding: 0px 10px 50px 28px;
+      top: -135px;
+      left: 3px;
+    }
+    .cl_logo img {
+      top: -311px;
+      left: -20px;
+    }
+    .cl_p {
+      line-height: 26px;
+    }
+    .lob_icon img {
+      top: -179px;
+      left: -19px;
+    }
+    .lob {
+      padding: 0px 4px 0px 28px;
+      top: 148px;
+      left: 2px;
+    }
+    .lob_p {
+      line-height: 28px;
+    }
+    .red_icon {
+      top: -790px;
+      left: -3px;
+    }
+    .red_icon img {
+      height: 71px;
+    }
+    /* website start */
+    .web_text p {
+      
+      padding-right: 0px;
+    }
+  
+
+    }
+    
+    /*medium devices (tablets, 768px and up)*/
+    @media (min-width: 768px) and (max-width: 991.98px){
+     /* header start   */
+     .menu_ul li a {
+      margin-right: 0px;
+    }
+    /* feature start */
+    .feature {
+      margin: 50px 10px;
+    }
+    .f_text {
+      text-align: center;
+      margin-top: 20px;
+    }
+    .f_h1 {
+      margin: 30px;
+      font-size: 60px;
+      
+    }
+    .f_p {
+      margin: 0 40px;
+    }
+    .f_btn {
+      margin-top: 50px;
+    }
+    /* hosting start */
+    .hosting {
+      margin: 30px 0;
+    }
+    .h_h2 {
+      text-align: center;
+    }
+    .h_p {
+      margin: 20px;
+      line-height: 30px;
+      text-align: center;
+    }
+    .h_logo {
+      margin-bottom: 50px;
+    }
+    /* facility start */
+  
+  .facility {
+    margin-bottom: 80px;
+  }
+    .fa_p {
+      margin: 0 0 15px;
+    }
+    .fa_h2 {
+      font-size: 18px; 
+      line-height: 24px;
+    }
+     /* package start */
+    .b_p {
+          margin-left: 40px;
+        }
+   .b_p2 {
+        margin-right: 0px;
+      }
+      .pa_btn {
+        left: 105px;
+      }
+      .pr_item {
+        padding: 20px 0 20px 14px;
+        margin-top: 160px;
+      }
+      /* testmonial start */
+      .testmonial {
+        margin-top: 80px;
+       
+      }
+      .test_text {
+        top: 58px;
+        left: 67px;
+      }
+    .test_h1 {
+      font-size: 35px;
+      line-height: 45px;
+    }
+    .jpnl {
+      padding: 16px 0px 0px 28px;
+      top: 128px;
+      left: 3px;
+    }
+    .jp_icon img {
+      top: -237px;
+      left: -22px;
+    }
+    .jp_p {
+      line-height: 28px;
+    }
+    .cli {
+      padding: 36px 10px 75px 28px;
+      top: -114px;
+      left: -3px;
+    }
+    .cl_p {
+      line-height: 32px;
+    }
+    .cl_logo img {
+      top: -260px;
+      left: -20px;
+    }
+    .lob {
+      padding: 32px 26px 26px 32px;
+      top: 148px;
+      left: 2px;
+    }
+    .red_icon {
+      top: -795px;
+      left: 11px;
+    }
+    .red_icon img {
+      height: 80px;
+    }
+     /* website start */
+     .web_text h1 {
+      font-size: 29px;
+      line-height: 47px;
+    }
+    .web_text p {
+      line-height: 25px;
+      padding-right: 0px;
+    }
+  }
+
+    
+    /*Large devices (desktops, 992px and up)*/
+    @media (min-width: 992px) and (max-width: 1199.98px) {
+      /* feature start */
+      .f_h1 {
+        font-size: 60px;
+       
+      }
+      .f_p {
+        margin: 0px 159px 0px 0;
+      }
+      .f_btn {
+        margin-top: 20px;
+      }
+      .img_1 {
+       
+        top: 344px;
+        right: -22px;
+      }
+      .img_3 {
+        top: 251px;
+        left: -22px;
+      }
+       /* hosting start */
+       .h_h2 {
+       
+        font-size: 45px;
+        font-weight: 800;
+      }
+       .h_p {
+        margin: 17px 19px 0px 0;
+        font-size: 18px;     
+        line-height: 24px;
+      }
+      /* facility start */
+      .fa_h2 {
+        margin-top: 12px;
+        font-size: 15px;      
+        line-height: 24px;
+      }
+      .fa_p {
+        font-size: 14px;
+        margin: 0;
+      }
+      /* package start */
+      .b_p {
+        margin-left: 45px;
+      }
+       .b_p2 {
+      margin-right: 0px;
+      }
+      .pa_btn {
+      
+      left: 144px;
+      }
+     .pr_item {
+      padding: 20px 0 20px 14px;
+      margin-top: 160px;
+    }
+    /* testmonial start */
+    .test_text {
+      top: 54px;
+      left: 9px;
+    }
+    .test_h1 {
+      font-size: 43px;
+      line-height: 60px;
+    }
+
+    .jpnl {
+      padding: 39px 28px 14px 54px;
+      top: 122px;
+      left: 23px;
+    }
+
+ .jp_icon img {
+        top: -264px;
+      left: -22px;
+    }
+    .jp_p {
+      line-height: 24px;
+    }
+    .cli {
+      padding: 32px 32px 32px 36px;
+      top: -114px;
+      left: -5px;
+    }
+    .cl_p {
+      line-height: 30px;
+    }
+    .cl_logo img {
+      top: -309px;
+      left: -20px;
+    }
+    .lob {
+      padding: 0px 10px 10px 41px;
+      top: 160px;
+      left: 22px;
+    }
+    .lob_p {
+      line-height: 26px;
+    }
+    .lob_icon img {
+      top: -183px;
+      left: -20px;
+    }
+    .red_icon {
+      top: -863px;
+      left: 47px;
+    }
+    .red_icon img {
+      height: 100px;
+    }
+    .lob_p2 {
+      line-height: 26px;
+      margin-bottom: 0;
+    }
+    /* website start */
+    .web_text h1 {
+      font-size: 40px;
+      line-height: 57px;
+    }
+    .web_text p {
+      line-height: 30px;
+      padding-right: 0px;
+    }
+  }
+
+    
+   
+      
+    
+    /* Extra large devices (large desktops, 1200px and up)*/
+    @media (min-width: 1200px) and (max-width: 1399.98px) {
+   /* feature start */
+   .img_1 {
+    top: 427px;
+    right: -22px;
+  }
+   .f_btn {
+   
+    margin-top: 24px;
+  }
+  /* hosting start */
+  .h_h2 {
+    
+    font-size: 44px;
+    
+  }
+  .h_p {
+    margin: 30px 0 0;
+    line-height: 28px;
+  }
+  /* facility start */
+  .fa_h2 {
+    font-size: 19px;
+    
+  }
+  /* package start */
+  .b_p {
+    margin-left: 79px;
+
+    }
+    .b_p2 {
+      margin-right: 50px;
+    }
+    /* testmonila start */
+    .test_text {
+      top: 57px;
+      left: 45px;
+}
+    
+    .jpnl {
+      top: 147px;
+      left: 0px;
+    }
+    .jp_icon img {
+      top: -281px;
+      left: -23px;
+    }
+    .lob {
+      padding: 0px 10px 10px 41px;
+      top: 182px;
+      left: 2px;
+    }
+    .lob_p {
+      line-height: 26px;
+    }
+    .lob_icon img {
+      top: -173px;
+      left: -20px;
+    }
+    .cli {
+      top: -169px;
+      left: -23px;
+    }
+    .cl_logo img {
+      
+      top: -292px;
+      left: -22px;
+    }
+    .red_icon {
+     top: -920px;
+     left: 89px;
+    }
+    /* website start */
+    .web_text p {
+      padding-right: 50px;
+    }
+    
+  }
+    
+    /* Extra Extra large devices (large desktops, 1200px and up)*/
+    @media (min-width: 1400px) {
+ 
+    }
